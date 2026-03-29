@@ -1,39 +1,68 @@
-## 👤 Overview
-
-I am a CSE student at VIT Bhopal building my presence on LinkedIn, GitHub, and Kaggle to grow in tech and AI.
+# 📋 Task 3 – Digital Literacy Awareness Survey
 
 ---
 
-## 🔗 LinkedIn
-
-**Link:** https://www.linkedin.com/in/utkarsh-kankane-3428a0371/<br>
-**Strengths:** Basic profile, connections started<br>
-**Improve:** Add strong headline, About section, post regularly<br>
-**Goal:** Build network + personal brand
+## 🌐 Overview
+Created a **Digital Literacy Awareness Survey** using **Google Forms** to explore students'
+digital awareness, online safety habits, and cybersecurity practices.
+Responses are **confidential** and help understand student perspectives on staying safe online. 🔐
 
 ---
 
-## 🧠 Kaggle
-
-**Link:** https://www.kaggle.com/utkarshkankane<br>
-**Strengths:** Clear interest in AI & learning<br>
-**Improve:** No notebooks or competitions yet<br>
-**Goal:** Upload projects and participate regularly
+## 🔗 Form Link
+> 👉 **[Click here to access the survey](https://docs.google.com/forms/d/e/1FAIpQLSedd6b22VRS84yHk5bRMWMNYInn4u8uR0TUKrhFMWdo0PjwdA/viewform?usp=header)**
 
 ---
 
-## 💻 GitHub
+## 📝 Form Details
+| Field | Details |
+|-------|---------|
+| 📌 **Title** | Digital Literacy Awareness Survey |
+| 📄 **Description** | Explores digital awareness, habits, and online safety practices among students |
+| 🛠️ **Platform** | Google Forms |
+| 🔒 **Responses** | Confidential |
 
-**Link:** https://github.com/utkarsh25bce10695<br>
-**Strengths:** Profile README created<br>
-**Improve:** Few projects, no strong portfolio<br>
-**Goal:** Add 5+ projects and improve README
+---
+
+## ❓ Questions Included
+
+| # | Question | Type |
+|---|----------|------|
+| 1️⃣ | **Name** | 📝 Short Answer |
+| 2️⃣ | **Registration Number** | 📝 Short Answer |
+| 3️⃣ | **Email ID** | 📧 Short Answer |
+| 4️⃣ | **Suspicious Link Behavior** | 🔘 Multiple Choice |
+| 5️⃣ | **Confidence in Identifying Scams** | ⭐ Rating Scale (1–5) |
+| 6️⃣ | **Online Safety Actions** | ☑️ Checkboxes |
+| 7️⃣ | **Personal Safety Experience** | 💬 Open-ended |
+| 8️⃣ | **Data Value Misconception** | ✅ True / False |
 
 ---
 
-## 🚀 Final Reflection
+## 📊 Response Summary *(5 Responses)*
 
-I am at a beginner stage but on the right path.  
-Focus on **projects, consistency, and visibility** to grow.
+| Metric | Result |
+|--------|--------|
+| 🔗 Suspicious Link Handling | 4/5 chose **"Verify sender before clicking"** ✅ |
+| 🎯 Scam Detection Confidence | Most rated **3–4 out of 5** ⭐⭐⭐⭐ |
+| 🔐 Two-Factor Authentication | 4/5 enable 2FA ✅ |
+| 🚫 Avoiding Unknown Links | 4/5 avoid unknown links ✅ |
+| ⚠️ Data Value Misconception | Only 2/5 answered correctly ❌ *(most missed!)* |
 
 ---
+
+## 🖼️ Screenshots
+
+### 📋 Form View
+![Digital Literacy Awareness Survey Form](Activity_Proof.png)
+
+---
+
+### 📈 Response Summary
+![Survey Response Summary](Activity_Proof-2.png)
+
+---
+
+> 💡 **Key Takeaway:** Students show strong awareness of basic online safety practices like
+> 2FA and avoiding unknown links, but many still underestimate the value of their personal
+> data — highlighting a critical area for further digital literacy education. 🎓
