@@ -56,14 +56,14 @@ Responses are **confidential** and help understand student perspectives on stayi
 ### 📋 Form View
 > The survey form as seen by respondents on Google Forms.
 
-![Digital Literacy Awareness Survey Form](Activity_Proof.png)
+<img src="Activity_Proof.png" alt="Digital Literacy Awareness Survey Form" width="300" height="400"/>
 
 ---
 
 ### 📈 Google Sheet – Response Summary
 > Live response data linked from Google Forms showing all 5 submissions.
 
-![Survey Response Summary](Activity_Proof-2.png)
+<img src="Activity_Proof-2.png" alt="Survey Response Summary" width="300" height="400"/>
 
 ---
 
