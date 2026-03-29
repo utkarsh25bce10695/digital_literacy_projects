@@ -1,1 +1,1 @@
-
+This infographic was created using Canva to present key concepts of digital literacy in a simple and visually engaging way. It highlights essential skills, useful tools for students, and safe internet practices, helping viewers understand how to use digital platforms effectively, responsibly, and securely in their academic and daily lives.
