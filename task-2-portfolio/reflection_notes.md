@@ -54,11 +54,15 @@ Responses are **confidential** and help understand student perspectives on stayi
 ## 🖼️ Screenshots
 
 ### 📋 Form View
+> The live survey form as seen by respondents
+
 ![Digital Literacy Awareness Survey Form](Activity_Proof.png)
 
 ---
 
-### 📈 Response Summary
+### 📈 Google Sheet – Response Summary View
+> Summary of all 5 responses collected via Google Forms
+
 ![Survey Response Summary](Activity_Proof-2.png)
 
 ---
