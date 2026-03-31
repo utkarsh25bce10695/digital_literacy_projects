@@ -3,7 +3,7 @@
 ## 👤 Student Details  
 **Name:** Utkarsh Kankane  
 **Registration No.:** 25BCE10695  
-**Branch:** Computer Science Engineering  
+**Branch:** CSE(Core)  
 **Year:** 1st Year  
 
 ---
